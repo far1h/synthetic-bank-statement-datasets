@@ -1,0 +1,11 @@
+numpy
+pandas
+pillow
+opencv-python-headless
+scipy
+matplotlib
+reportlab
+pikepdf
+pymupdf
+pypdf
+cryptography
